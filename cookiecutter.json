@@ -1,0 +1,14 @@
+{
+	"full_name": "Luis Mayta",
+	"email": "slovacus@gmail.com",
+  "github_user": "dgnest",
+  "github_author": "https://github.com/luismayta",
+  "company": "dgnest",
+	"project_name": "name project",
+	"repo_name": "slide-project-name",
+	"short_description": "Slides Cookiecutter",
+	"release_date": "2017-03-21",
+	"year": "2017",
+	"version": "0.0.0",
+  "license": "Mit"
+}

@@ -9,7 +9,41 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE)
 [![Test Coverage](https://codeclimate.com/github/{{cookiecutter.github_user}}/{{cookiecutter.repo_name}}/badges/coverage.svg)](https://codeclimate.com/github/{{cookiecutter.github_user}}/{{cookiecutter.repo_name}}/coverage)
 
-## Requirements
+## Install
+
+### Requeriments
+
+* [Python 2.7.x](http://python.org/download/)
+
+### Install Requeriments
+
+```bash
+make install
+```
+
+### Slides
+
+Es necesario instalar [landslide](https://github.com/adamzap/landslide) para poder generar los slides.
+
+```bash
+make generate
+```
+
+Open index.html
+
+### Documentation
+
+Es necesario instalar [Grip](https://github.com/joeyespo/grip) para poder visualizar la documentación, ejecutando lo siguiente:
+
+```bash
+grip 5000
+```
+
+ir a un navegador y colocar:
+
+```bash
+http://localhost:5000
+```
 
 ## Changelog
 
@@ -25,8 +59,6 @@ Made with :heart: :coffee: and :pizza: by [{{cookiecutter.company}}][link-compan
 
 - [All Contributors][link-contributors]
 
-
-<!-- Other -->
 
 [link-company]: https://github.com/{{cookiecutter.company}}
 [link-contributors]: AUTHORS

@@ -1,12 +1,10 @@
 # Cookiecutter Porject Go
 
-<span class="badges" align="center">
 [![Build Status](https://travis-ci.org/dgnest/cookiecutter-slides.svg)](https://travis-ci.org/dgnest/cookiecutter-slides)
 [![GitHub issues](https://img.shields.io/github/issues/dgnest/cookiecutter-slides.svg)](https://github.com/dgnest/cookiecutter-slides/issues)
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE)
-</span>
 
-Cookiecutter recipe to easily create golang project.
+Cookiecutter recipe to easily create slides project.
 
 ## Features
 
@@ -40,13 +38,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
-Made with :heart: ️:coffee:️ and :pizza: by [dgnest][link-company].
+Made with :heart: :coffee: and :pizza: by [dgnest][link-company]
+
 
 - [All Contributors][link-contributors]
 
-<!-- Other -->
-
-[link-cookiecutter]: https://www.cookiecutter.com
 [link-contributors]: AUTHORS
 [link-company]: https://github.com/dgnest
 [link-luis]: https://github.com/luismayta
